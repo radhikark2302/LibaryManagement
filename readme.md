@@ -24,7 +24,8 @@ The **Library Management System** is a simple Django-based application that allo
 2. **Create a Virtual Environment** (Recommended)
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   source venv/bin/activate  
+   # On Windows use `venv\Scripts\activate`
    ```
 
 3. **Install Dependencies**
